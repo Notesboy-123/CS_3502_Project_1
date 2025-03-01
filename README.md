@@ -1,6 +1,6 @@
 # CS_3502_Project_1
 
-This is a two-part project for KSU course 3502 section 01. Part A is the [Multi-Threading.cpp] file and part B is the [Producer.cpp] and [Consumer.cpp] files. 
+This is a two-part project for KSU course 3502 section 01. Part A is the [Multi-Threading.cpp](https://github.com/Notesboy-123/CS_3502_Project_1/blob/main/Multi-Threading.cpp) file and part B is the [Producer.cpp](https://github.com/Notesboy-123/CS_3502_Project_1/blob/main/Producer.cpp) and [Consumer.cpp](https://github.com/Notesboy-123/CS_3502_Project_1/blob/main/Consumer.cpp) files. 
 
 
 ## Part A - Multi-Threading Implementation
